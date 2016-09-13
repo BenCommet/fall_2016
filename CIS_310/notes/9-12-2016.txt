@@ -1,0 +1,2 @@
+@title General Social Network Stuff
+@def social network - a group of people and the dyadic relationships between them

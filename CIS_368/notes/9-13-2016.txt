@@ -1,0 +1,5 @@
+@def Design principles - visibility, consistency, feedback, mapping, constraints, affordance
+@def contextual inquiry - Learning about the user's environment
+* Product concept statements are usually written for a broad audience
+* Product concept statements describe intended audience, disired user experience, activity/problem to be supported, form of solution, and a product name
+
