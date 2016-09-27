@@ -1,0 +1,6 @@
+@title Metrics
+# centrality metrics
+	1. degree
+	2. closeness - measure of the length in the shortest paths between a node and every other node in the network
+	3. betweenness - measure how close a node is to every other node in the network
+	4. edgesomething - 

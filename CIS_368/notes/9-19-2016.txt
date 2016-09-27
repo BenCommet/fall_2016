@@ -1,0 +1,5 @@
+* Two major elements of the work domain include work roles and flow models
+@def work roles - job title, work assignments
+@def work activity notes - should be succinct, include source ID and work role and paraphrase interview statements
+@def work activity affinity diagram - is a collection of data clusters where things are categorized in an attempt to make them make sense
+
