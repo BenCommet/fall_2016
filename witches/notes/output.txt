@@ -1,0 +1,152 @@
+@title Setting the Stage for Witch Hunts in Europe
+* Black death is separation between medieval and early modern
+* 1520 - 1560 limited prosecution with small hunts. 1560 onwards we get big prosecutions and big hunts. In 1630 begins decline of witch hunts. 1770 is end of witch hunts
+# The great chain of Being
+	1. God
+	2. Angels
+	3. Humans
+	4. Animals
+	5. Plants
+
+* Monarchs have divine right to rule
+* Aristocracy lives for war/fight either each other or the muslims
+* Journeyman cannot marry/are training their skills
+* Peasants are free. Some have land and some are landless
+* Serfs are tied to the land
+* There were slaves, usually based on being prisoners of war. Christians have muslim slaves and vice versa
+
+* Catholic Church
+* Pope has a ton of secular and religious power
+# Heirarchy
+	1. Popes appoint college of cardinals, cardinals appoint the pope
+	2. Archbishops get control of geographical regions/with bishops controlling subdivided portions of those regions
+	3. Monks and Nuns
+	4. Parish priests
+
+* Jews and Muslims live outside of this heirarchy
+* Cathars believed that everything regarding the body was from Satan, Spirit came from God
+* They started gathering power
+* Everybody must be in church on good friday. If not you are a heretic.
+* Church doesn't burn people, but they will give you to the secular people who will burn ya.
+* Fourth Laterine council sets up an inquisitorial system of justice in 1250. Torture is allowed, God will protect you if you are innocent
+@title Early Midieval Primary Sources
+* Augustine tells about a good vs a bad christian. Superstition is evil even if it seems relatively harmless
+* Ceasarius of Ailes - 530 - Monk in France. Free will, devil has permission to practice magic
+* Isodore of Seville - 7th Cntury - etymological encyclopedia that defines witchcraft and magic, specifies details
+* Halitgar of Cambrai - 830 - church official who published a handbook for confessors
+* Regino of Prom - Scholar/Bishop 906 - warning to bishops, women, worshipping Pagan Godess at night, ride upon beasts through the air
+* Borchard of Worms - Bishop 1008 - 1012 - questions in confessional, broader classification of sorcery
+* Hugh of St. Victor - Augustinian Monk 1120's - Deal with the devil
+* William of Malmsebury - 1140 - Stories
+* Master Gration - cannon lawyer 1140 - legal explanation, some skepticism, sexual problems
+* John of Salisbury - monk 1159 - infanticide and morality
+* Ralph of Coggeshall - abbot of Coggeshall 1176 - Lots of fear, Story
+* Jacobus de vorogine - 1270 - Making lives of saints more relatable, Martyrdom 
+@title The Black Death
+* There is a significant discrepancy between how we see the causes of the bubonic plague and how the people at the time saw the plague
+* God is supes pissed
+* The black death is the dividing line between the mediaval period and the early modern europe period (1347)
+* Single Ship of Genoese merchants spread the plague initially through Europe
+@def Yersinias Pestis - disease of rodents and rabits, doesn't really hurt the rats, fleas take up plague ridden blood then chuck it up in people
+* Humans do not develop a lasting immunity to the plaguei
+@def pneumonic plague - when bubonic plague gets into the lungs, direct infection of pneumonic plauge is almost entirely lethal
+* Comes back every 11 to 17 years from 1400 - 1630
+* Lots of people believe that this is the end of days
+* Blame for the Jews
+* Church calls for increased religious ferver
+* God allows punishment because you need it or were badddd
+* Penitance is required, Flagellation, self-mortification
+* Flagellators bypassed the church to talk derictly to god
+@def anticlericalism - not against christianity, but being against the church and her clerics
+* increase in government control and involvment in people's lives 
+* causes the end of feudalism by creating a labor shortage, also everybody ended up burried together
+
+@title Cumulative Concept of Witchcraft
+@def Scholasticism - 13th - 14th century charecterised by the art of synthesis(pulling stuff together) take everything we know and pull it all together. Largely based on Aristotle, problem cause he isn't christian
+* 1210 Church bans Aristotle
+* 1231 Commission looks for good in Aristotle
+* 1255 university of Paris is teaching aristotle
+* 1263 Pope bans Aristotle but university doesn't pay attention
+# Thomas Aquinas Kinds of Truth
+	1. Knowledge - Aristotle
+	2. Supernatural truth  - what is given by God - Trinity
+* Christians can be scientists and schtuff without ruining Christianity
+* Opened up all kinds of Supernatural Truth 
+@def Renaissance Humanism - 14th - 16th century say scholastics simply piled up knowledge without adding any knowledge
+# cultural fear 
+	1. Peasant uprisings 
+	2. Weather
+	3. Death - very easy to die 
+* People belive that social structure is deserved
+* Women are supposed to be enclosed, no education or roles in pretty much anything
+# Social Structure
+	1. 70% are rural peasant farmers 1/4 of whom are starving, 3/4 of which are just beating the line of subsistence
+	2. Nobility
+	3. King
+#Church Structure
+	1. Pope
+	2. Cardinals
+	3. Archbishops
+	4. Bishops
+	5. Abbots & Abbesses
+	6. Priests
+* Jews and Muslims are both present but don't fit in to the social structure
+@def Dualists - believe that the devil is a rival to god's strength
+* 1215 Fourth Leteran Council laid out correct christian belief, and gave a list of heretical beliefs to be avoided, everyone should go to confession and communion, recalcitrant heretics should be excommunicated and handed over to the secular authorities to be dealt with, Set up Inquisitorial Justice leading to the inquisition
+* We now have a way to prosecute witches
+
+* Church courts prosecuted heresy, sacrilidge, any crime committed by and against the clergy and all crimes related to marriage and sexuality
+* A lot of tension and competition over jursisdiction
+* Any punishment involving bodily harm given by the church courts had to be laid down by the secular courts
+@def accusatorial justice - had to be initiated by a private person who prosecuted the case, if not resolved trial by the ordeal
+@def ordeal - god would back you up if you were right, injuries were given, or duals were fought
+* At the 4th Lateran Council the church decided no clergy could particpate in accusitorial justice and that torture can be used to get the truth from individuals
+* This causes a switch to the inquisitorial system of justice
+@def inquisitorial system of justice - could be initiated by private party, or an official can step in and start the process. Court officials are responsible for prosecuting the case. Standards of evidence finally start to be produced. 
+@heresy - beliefs that are not orthodox, believing in the wrong things, usually done by picking bits and pieces of Christianity
+@infidelity - not believing in Jesus
+#Types of Heresy
+	1. ignorance - you weren't taught correctly or never had access to the right doctrine, this isn't a sin
+	2. formal heresy - you do know the correct doctrine, and you have chosen to either not believe it or to believe only a portion of it
+@def sacrilidge - defiling something holy, more about action than belief 
+* middle of 15th century witchcraft begins to be treated as heresy
+
+
+@title - Malleus Maleficarum
+* Got endorsement from Innocent IIX
+* Forged endorsement from University of Paris
+* Claimed to be prooved by actual interactions with witches
+* They draw heavily from scripture
+* They had lots of sex and stuff
+
+* Women are incomplete men
+
+@title Reformation
+* For the first time people can choose their type Christianity
+* Of course that wasn't true in all areas
+# Good Works
+	1. Communion on Easter
+	2. Tithe
+	3. Take Communion
+	4. Almsgiving
+	5. Obey the Pope
+	6. Pray
+	7. Go to mass
+# Seven Sacraments
+	1.Confesssion
+	2. Communion
+	3. Baptism
+	4. Holy orders
+	5. Marriage
+	6. Last Rights
+	7. Confirmation
+* The church is an excellant career for nobles
+@def Pluralism - Holding two or more church positions, done to increase income, leads to absenteeism
+@def Absenteeism - Result of pluralism, people cannot do more than one thing at once
+* Church is getting rich at the expense of the poor
+* Terrible events helped church cause scared people leave money to poor as last ditch effort to get into heaven
+@def Justification By Faith Alone - Good works come from faith
+@def plenary indulgence - forgives you of all your sins
+* Pope Julius releases papal bull saying Martin luther was bad
+* Zwingli didn't like lent
+@def anabaptists - wants church to become again like it was in the earliest days. Needs opposition just like the original Christians had, anabatists means adult baptism  
