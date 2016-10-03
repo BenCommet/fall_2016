@@ -1,0 +1,50 @@
+@title General Social Network Stuff
+@def social network - a group of people and the dyadic relationships between them
+@title Electronic Representations of Networks
+@def scalar - linear algebra structure for holding single numbers
+@def vector - linear algebra structure for holding one dimensional row or column of numbers (array with direction)
+@def matrix - linear algebra structure for holding two dimensional array  
+@def n = number of nodes
+@def m - number of links
+
+@title Nodes and Links
+* Nodes represent objects eg: node = new Node(foo, bar);
+* Links - relationship between 2 nodes
+# Link Attributes:
+	1. Type - nature of link eg. friendship, father-of, carbon-bond
+	2. Weight - numerical measurement that can describe the strength of the link
+	3. Direction - implies that the relationship is one-way, examples include father-of, follows, eats. Directed can go in both directions, typically designated by arrows, undirected is monodirectional
+
+* Graphs are used to refer only to nodes and links
+* Networks contains the graph and the node attributes
+* Figure out what is important and then use those, keep groups of nodes together as much as possible
+
+* early 20th century, sociologist became interested in social networks and the social dynamics
+* Milgrims small world letter thing
+* Granovetter's "strenth of weak ties" in 1973
+* We can do a lot more with networks these days, what the the plumtooters and what not
+@def directed acyclic networks - are directed with no cycles, useful for searches
+# Procedure to determine if network is directed acyclic
+	1. search for a node with no outgoing links
+	2. if there are none it is cyclic. otherwise remove the selected node and all its incoming links
+	3. if all vertices have been removed, it is acyclic, otherwise go back to step 1
+@def Bipartite Graphs - you can partition the graphs nodes into two sets and there can be links between nodes of different sets but not between nodes of the same set
+* 2 mode networks are bipartite
+@def Trees - graphs without closed loops, not a problem for transversal, any node can be root node
+@def minimum spanning tree - used for weighted graphs to find the minimum weights between nodes
+
+@title Metrics
+# centrality metrics
+	1. degree
+	2. closeness - measure of the length in the shortest paths between a node and every other node in the network
+	3. betweenness - measure how close a node is to every other node in the network
+	4. edgesomething - 
+@title Real Networks
+* stars - start with one node: a has friends B, C, D, E, and F
+* D has ACFG & H then combine the trees
+@def one mode network - contains only one thing (eg: students)
+@def two mode network - contains two things (eg: students and their courses)
+* overlapping cliques are a bunch of peeps who know are in two seperate groups and know each other
+@fx number of links in fully connected network = n(n - 1)/2 -> n = number of nodes
+@def internetworking - procedure for connecting 2 or more networks
+
