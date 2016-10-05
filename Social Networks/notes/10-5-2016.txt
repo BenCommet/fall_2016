@@ -1,0 +1,3 @@
+@def Power Law Coefficient - plotting degree distribution typically looks like the curve to the right called a power law curve
+* finding cliques is interesting but computationally difficult (impossible)
+

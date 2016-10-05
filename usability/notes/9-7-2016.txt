@@ -1,0 +1,2 @@
+* Think aloud technique is used for qualitative data collection
+* Members of user interface team may include: Users, domain experts, graphic designers, UX evaluator, UI programmer, UX evaluator, UI programmer, user interaction designer, UX manager, technical writer, User researcher
