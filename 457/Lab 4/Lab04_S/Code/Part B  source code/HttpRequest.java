@@ -31,18 +31,18 @@ final class HttpRequest implements Runnable {
         String requestLine = br.readLine();
 
         // Extract the filename from the request line.
-        ? tokens = new StringTokenizer(?);
+        StringTokenizer tokens = new StringTokenizer(requestLine);
         tokens.nextToken();  // skip over the method, which should be "GET"
         String fileName = tokens.nextToken();
 	
         // Prepend a "." so that file request is within the current directory.
-        ? ;
+        fileName = "." + fileName;
 	
 	// Open the requested file.
         FileInputStream fis = null ;
         boolean fileExists = true ;
         try {
-	    fis = new FileInputStream(?);
+	    fis = new FileInputStream(fileName);
         } catch (FileNotFoundException e) {
 	    fileExists = false ;
         }
@@ -60,31 +60,31 @@ final class HttpRequest implements Runnable {
         String contentTypeLine = null;
         String entityBody = null;
         if (fileExists) {
-	    statusLine = ?;
+	    statusLine = "HTTP/1.0 200 OK\r\n";
 	    contentTypeLine = "Content-Type: " + 
 		contentType(fileName) + CRLF;
         } else {
-	    statusLine = ?;
-	    contentTypeLine = ?;
+	    statusLine = "HTTP/1.0 404 Not Found\r\n";
+	    contentTypeLine = "Content-Type: text/html" + CRLF;
 	    entityBody = "<HTML>" + 
 		"<HEAD><TITLE>Not Found</TITLE></HEAD>" +
 		"<BODY>Not Found</BODY></HTML>";
         }
 	// Send the status line.
-        os.writeBytes(?);
+        os.writeBytes(statusLine);
 
         // Send the content type line.
-        os.writeBytes(?);
+        os.writeBytes(contentTypeLine);
 
         // Send a blank line to indicate the end of the header lines.
-        os.writeBytes(?);
+        os.writeBytes("/r/n");
 
         // Send the entity body.
         if (fileExists) {
 	    sendBytes(fis, os);
 	    fis.close();
         } else {
-	    os.writeBytes(?) ;
+	    os.writeBytes(entityBody) ;
         }
 
         // Close streams and socket.
@@ -101,7 +101,7 @@ final class HttpRequest implements Runnable {
 	
 	// Copy requested file into the socket's output stream.
 	while ((bytes = fis.read(buffer)) != -1) {
-              os.write(?, ?, ?);
+              os.write(buffer, 0, bytes);
 	}
     }
 
@@ -114,11 +114,15 @@ final class HttpRequest implements Runnable {
 	    return "image/gif";
 	}
 	
-	
-
-	?
+	if(fileName.endsWith(".jpeg")) {
+		return "image/gif";
 	}
+
+	if(fileName.endsWith(".png")) {
+		return "image/png";
+	}
+
 	return "application/octet-stream" ;
-    }
+	}
 }
 
