@@ -1,3 +1,0 @@
-@title Defining Usability
-* User experience is the most important aspect of a succesful product
-@def usability: ISO definitiion of usability is efficiency, user satisfaction and learnability

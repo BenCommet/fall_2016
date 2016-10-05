@@ -1,4 +1,0 @@
-@title Electronic Representations of Networks
-@def scalar - linear algebra structure for holding single numbers
-@def vector - linear algebra structure for holding one dimensional row or column of numbers (array with direction)
-@def matrix - linear algebra structure for holding two dimensional array  

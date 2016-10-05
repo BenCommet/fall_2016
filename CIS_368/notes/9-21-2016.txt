@@ -1,3 +1,0 @@
-@def design informing models - contextual analysis products/elements
-@def envisioned model - what we plan to design
-

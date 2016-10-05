@@ -1,3 +1,0 @@
-@def n = number of nodes
-@def m - number of links
-

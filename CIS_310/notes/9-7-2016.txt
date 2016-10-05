@@ -1,9 +1,0 @@
-@title Real Networks
-* stars - start with one node: a has friends B, C, D, E, and F
-* D has ACFG & H then combine the trees
-@def one mode network - contains only one thing (eg: students)
-@def two mode network - contains two things (eg: students and their courses)
-* overlapping cliques are a bunch of peeps who know are in two seperate groups and know each other
-@fx number of links in fully connected network = n(n - 1)/2 -> n = number of nodes
-@def internetworking - procedure for connecting 2 or more networks
-
