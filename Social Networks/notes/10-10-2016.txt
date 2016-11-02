@@ -1,0 +1,5 @@
+@title - Social Network analysis
+* Positions represent your position in the network relative to the nodes around you.
+* same depth of a complete tree would be at the same position
+@def Roles - functions that you carry out to accomplish a particular goal within a group. E.G. in a group there may be an organizer, another who sets the agenda, one may be a peacemaker
+
